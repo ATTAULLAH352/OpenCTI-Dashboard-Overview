@@ -1,7 +1,9 @@
-#  OpenCTI Dashboard & Navigation Overview  
+#  OpenCTI Dashboard & Navigation Overview   
 
 ## 1. Dashboard  
 Displays widgets summarizing total entities, relationships, reports, and observables, including 24-hour updates.  
+
+![OpenCTI Dashboard](OpenCTI-Dashboard.gif)
 
 ---
 
